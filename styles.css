@@ -79,19 +79,16 @@
     flex-direction: column;
     align-items: center;
    }
-  
-   #resultModal{
-    
-    width: 160.1em;
+   
+   #resultModal {
+    width: fit-content;
+    padding: -40% 25% ;
+    /* background-color: lightblue; */
+    /* color: white; */
     font-size: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color:white;
-    border:1px solid grey ;
-    background-color: transparent; 
-    padding-left: 36%;
-    padding-top:16%;
-    
    }
+   
 /* End of Alert box */
